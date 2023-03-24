@@ -1,0 +1,135 @@
+.paper-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons-style {
+  color: #223a5f;
+  height: 60px;
+  width: 60px;
+}
+
+.Rules-button {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  color: #223a5f;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 0px solid;
+}
+
+.rules-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.rules-image {
+  height: 500px;
+  width: 50vw;
+  margin: 10px;
+}
+
+.popup-content {
+  height: 90vh;
+  width: 55vw;
+  background-color: #ffffff;
+}
+
+.close-button {
+  height: 50px;
+  width: 50px;
+  background-color: #ffffff;
+  border: 0px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-icon {
+  height: 40px;
+  width: 40px;
+  color: #223a5f;
+}
+
+.close-button-styling {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.popup-container {
+  background-color: #223a5f;
+}
+
+.click-rock-button-container {
+  width: 800px;
+  height: 400px;
+  background-color: #223a5f;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  margin-left: 330px;
+}
+
+.inner-container1 {
+  display: flex;
+  width: 700px;
+  height: 250px;
+  background-color: #223a5f;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+.image-style2 {
+  height: 180px;
+  width: 180px;
+}
+
+.choice-heading1 {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 40px;
+}
+
+.choice-heading2 {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding-left: 50px;
+}
+
+.button-style {
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+}
+
+.result-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.play-again-button {
+  color: #223a5f;
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  height: 35px;
+  width: 120px;
+  border: 0px solid;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
